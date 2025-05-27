@@ -1,4 +1,4 @@
-# SNS Portfolio
+# SNS button
 
 This is a simple HTML/CSS project of 3d social media link- button.
 
