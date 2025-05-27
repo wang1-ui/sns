@@ -1,2 +1,6 @@
-# 3d-sns
-3d social media links button created by html and css
+# SNS Portfolio
+
+This is a simple HTML/CSS project of 3d social media link- button.
+
+👉 [Live Demo](https://wang1-ui.github.io/sns/)
+
